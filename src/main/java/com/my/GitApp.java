@@ -7,5 +7,6 @@ public class GitApp {
 
     public static void main(String[] args) {
         System.out.println("这是第一条数据");
+        System.out.println("第二条数据");
     }
 }
