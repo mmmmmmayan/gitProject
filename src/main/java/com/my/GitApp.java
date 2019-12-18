@@ -52,6 +52,7 @@ public class GitApp {
             List<String> list = Arrays.asList("user:add", "book:del");
             boolean b = subject.isPermittedAll("user:add", "book:del");
             System.out.println(b);
+            System.out.println("拉取成功  修改后重新推上去");
         }
 
 
